@@ -16,7 +16,6 @@ const Contact = () => {
       </div>
       <h3><pre>  Hi Travel lover !  <br/>  Am a developer from the city of <br/>  destiny, <br/>  Looking for an opportunity to prove <br></br>  my work.</pre></h3>
       <section>
-        <h3><pre>  contact : </pre></h3>
         <h3><pre>  mail    : sasikumaryanapu16@gmail.com</pre></h3>
       </section>
       <div className='icons'>
