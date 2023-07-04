@@ -1,0 +1,38 @@
+
+.contact{
+
+    width: 330px;
+    height: 520px;
+    overflow: hidden;
+    border: 2px solid white;
+    margin-left: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+    position: relative;
+    top: 80px;
+
+    img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        position: relative;
+        top:6px;
+    }
+
+    pre{
+        text-align: left;
+        position: relative;
+        top:50px;
+
+    }
+
+    section{
+        position: relative;
+        top: 50px;
+    }
+
+}
+.icons{
+    position: relative;
+    top:150px;
+}
