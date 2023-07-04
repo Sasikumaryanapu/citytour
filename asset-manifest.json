@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/citytour/static/css/main.9b8fd05d.css",
+    "main.js": "/citytour/static/js/main.5f4d2b31.js",
+    "static/js/787.5bdf4bf5.chunk.js": "/citytour/static/js/787.5bdf4bf5.chunk.js",
+    "static/media/zoo.png": "/citytour/static/media/zoo.8b0745f95b5d96a52555.png",
+    "static/media/aruku.png": "/citytour/static/media/aruku.5b1ec025db92a53df1b0.png",
+    "static/media/central.png": "/citytour/static/media/central.1c40d95a8bb350749fd6.png",
+    "static/media/simhachalam.png": "/citytour/static/media/simhachalam.8ba530e4e4cedaec9bf8.png",
+    "static/media/rushikonda.png": "/citytour/static/media/rushikonda.e91b2605f1d1ea64c827.png",
+    "static/media/yerada.png": "/citytour/static/media/yerada.0e6fa121e3d74061052a.png",
+    "static/media/tenneti.png": "/citytour/static/media/tenneti.3f7e352008d2071b7e4f.png",
+    "static/media/vuda.png": "/citytour/static/media/vuda.a3d8584f6a9a5e492007.png",
+    "static/media/bheemli.png": "/citytour/static/media/bheemli.74707514afbe86dfd3c1.png",
+    "static/media/kambala.png": "/citytour/static/media/kambala.9add7e581173479ce915.png",
+    "static/media/viewpoin.png": "/citytour/static/media/viewpoin.dce6fac8e3ff2298a4f0.png",
+    "static/media/kailashagiri.png": "/citytour/static/media/kailashagiri.8d3c8ca127badca52ff7.png",
+    "static/media/beachh.jpg": "/citytour/static/media/beachh.294d5b6819a7571869a5.jpg",
+    "static/media/beach.jpg": "/citytour/static/media/beach.4fd53c77f64641305648.jpg",
+    "index.html": "/citytour/index.html",
+    "main.9b8fd05d.css.map": "/citytour/static/css/main.9b8fd05d.css.map",
+    "main.5f4d2b31.js.map": "/citytour/static/js/main.5f4d2b31.js.map",
+    "787.5bdf4bf5.chunk.js.map": "/citytour/static/js/787.5bdf4bf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8fd05d.css",
+    "static/js/main.5f4d2b31.js"
+  ]
+}
